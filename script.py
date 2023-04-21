@@ -2,7 +2,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I'm a Image Editor Bot which Supports various modes
+I'm KnockAI Bot which Supports various modes
 
 For more click help....</b>"""
     HELP_MSG = """Hai, Follow these Steps..
